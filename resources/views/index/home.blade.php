@@ -222,7 +222,7 @@
     </div>
     <div class="block py-5">
         <div class="container">
-            <div class="row align-items-center row justify-content-center g-10">
+            <div class="row align-items-center row justify-content-center">
                 <div class="col-md-5 col-12 mb-5">
                     <div class="col-content fl-node-content"><div class="fl-module fl-module-heading fl-node-9g8qt10hcfus" data-node="9g8qt10hcfus">
                             <div class="fl-module-content fl-node-content">
@@ -281,7 +281,7 @@
     </div>
     <div class="block py-4">
         <div class="container">
-            <div class="row justify-content-center g-10">
+            <div class="row justify-content-center">
                 <div class="col-md-5 col-12">
                     <img decoding="async" class="img-fluid" src="https://www.maidforyou.com.au/wp-content/uploads/2022/12/layer_23.png" alt="A service area map of Sydney depicting specific availability in Sydney suburbs" height="484" width="540" data-lazy-srcset="https://www.maidforyou.com.au/wp-content/uploads/2022/12/layer_23.png 540w, https://www.maidforyou.com.au/wp-content/uploads/2022/12/layer_23-300x269.png 300w" data-lazy-sizes="(max-width: 540px) 100vw, 540px" data-lazy-src="https://www.maidforyou.com.au/wp-content/uploads/2022/12/layer_23.png" data-ll-status="loaded" sizes="(max-width: 540px) 100vw, 540px" srcset="https://www.maidforyou.com.au/wp-content/uploads/2022/12/layer_23.png 540w, https://www.maidforyou.com.au/wp-content/uploads/2022/12/layer_23-300x269.png 300w" title="Service area map of Sydney"><noscript><img decoding="async" class="fl-photo-img wp-image-9913 size-full" src="https://www.maidforyou.com.au/wp-content/uploads/2022/12/layer_23.png" alt="A service area map of Sydney depicting specific availability in Sydney suburbs"  height="484" width="540" title="Service area map of Sydney" srcset="https://www.maidforyou.com.au/wp-content/uploads/2022/12/layer_23.png 540w, https://www.maidforyou.com.au/wp-content/uploads/2022/12/layer_23-300x269.png 300w" sizes="(max-width: 540px) 100vw, 540px" /></noscript>
                 </div>
