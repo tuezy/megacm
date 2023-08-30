@@ -313,3 +313,9 @@ ul.v-list-location{
     top: -40px;
   }
 }
+
+@media (max-width: 991px){
+  .column-services{
+    grid-template-columns: 1fr 1fr;
+  }
+}

@@ -8,7 +8,7 @@
                     </a>
                 </div>
                 <div id="menu">
-                    <ul class="list-unstyled d-flex justify-content-end mb-0">
+                    <ul class="list-unstyled d-flex justify-content-lg-end justify-content-center flex-wrap mb-0">
                         <li>
                             <a href="{{ route("home.index") }}">
                                 <span>Home</span>

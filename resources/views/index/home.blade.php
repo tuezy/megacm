@@ -54,7 +54,7 @@
     <div class="block py-5 bg-grey">
         <div class="container">
             <div class="row align-items-center">
-                <div class="col fl-node-djahcr8ov0bw col-small">
+                <div class="col-md-6 col-12">
                     <div class="col-content fl-node-content"><div class="fl-module fl-module-heading fl-node-9g8qt10hcfus" data-node="9g8qt10hcfus">
                             <div class="fl-module-content fl-node-content">
                                 <h2 class="fl-heading">
@@ -71,17 +71,20 @@
                                 </div>
                             </div>
                         </div>
-                        <ul class="x_blc_service p-0 justify-content-between mb-3">
+                        <ul class="x_blc_service p-0 justify-content-event mb-5">
                             <li><img src="https://www.maidforyou.com.au/wp-content/uploads/2022/12/vector_smart_object13.png" alt="Reliable" data-lazy-src="https://www.maidforyou.com.au/wp-content/uploads/2022/12/vector_smart_object13.png" data-ll-status="loaded" class="entered lazyloaded"><noscript><img src ="https://www.maidforyou.com.au/wp-content/uploads/2022/12/vector_smart_object13.png" alt ="Reliable"></noscript><span class="ms-2">Reliable</span>              </li>
                             <li><img src="https://www.maidforyou.com.au/wp-content/uploads/2022/12/vector_smart_object14.png" alt="Experienced" data-lazy-src="https://www.maidforyou.com.au/wp-content/uploads/2022/12/vector_smart_object14.png" data-ll-status="loaded" class="entered lazyloaded"><noscript><img src ="https://www.maidforyou.com.au/wp-content/uploads/2022/12/vector_smart_object14.png" alt ="Experienced"></noscript><span class="ms-2">Experienced </span>               </li><li> <img src="https://www.maidforyou.com.au/wp-content/uploads/2022/12/vector_smart_object15.png" alt="Flexible" data-lazy-src="https://www.maidforyou.com.au/wp-content/uploads/2022/12/vector_smart_object15.png" data-ll-status="loaded" class="entered lazyloaded"><noscript><img src ="https://www.maidforyou.com.au/wp-content/uploads/2022/12/vector_smart_object15.png" alt ="Flexible"></noscript> <span>Flexible</span>
                             </li>
                         </ul>
-                        <a href="book-now" target="_self" class="btn btn-success btn-book-now">
-                            <span class="fl-button-text">GET AN EXACT PRICE</span>
-                        </a>
+                        <div class="text-center mb-5">
+                            <a href="book-now" target="_self" class="btn btn-success btn-book-now mx-auto">
+                                <span class="fl-button-text">GET AN EXACT PRICE</span>
+                            </a>
+                        </div>
+
                     </div>
                 </div>
-                <div class="col fl-node-17guqliprv5z col-small" data-node="17guqliprv5z">
+                <div class="col-md-6 col-12">
                     <img decoding="async" class="img-fluid w-480" src="https://www.maidforyou.com.au/wp-content/uploads/2022/12/Different.png" alt="MaidForYou cleaner Jimmy wearing a black shirt and holding a backpack vacuum" height="605" width="598" title="MaidForYou Cleaner Jimmy" data-lazy-srcset="https://www.maidforyou.com.au/wp-content/uploads/2023/02/Boy-Cleaning.png 598w, https://www.maidforyou.com.au/wp-content/uploads/2023/02/Boy-Cleaning-297x300.png 297w" data-lazy-sizes="(max-width: 598px) 100vw, 598px" data-lazy-src="https://www.maidforyou.com.au/wp-content/uploads/2023/02/Boy-Cleaning.png" data-ll-status="loaded" sizes="(max-width: 598px) 100vw, 598px" srcset="https://www.maidforyou.com.au/wp-content/uploads/2023/02/Boy-Cleaning.png 598w, https://www.maidforyou.com.au/wp-content/uploads/2023/02/Boy-Cleaning-297x300.png 297w"><noscript><img decoding="async" class="fl-photo-img wp-image-10630 size-full" src="https://www.maidforyou.com.au/wp-content/uploads/2023/02/Boy-Cleaning.png" alt="MaidForYou cleaner Jimmy wearing a black shirt and holding a backpack vacuum"  height="605" width="598" title="MaidForYou Cleaner Jimmy" srcset="https://www.maidforyou.com.au/wp-content/uploads/2023/02/Boy-Cleaning.png 598w, https://www.maidforyou.com.au/wp-content/uploads/2023/02/Boy-Cleaning-297x300.png 297w" sizes="(max-width: 598px) 100vw, 598px" /></noscript>
                 </div>
             </div>
@@ -97,7 +100,7 @@
                <p class="text-center mw-980 mb-4">
                    At MaidForYou, we come highly recommended and cover all your house and office cleaning needs, including:
                </p>
-               <ul class="x_blc_service">
+               <ul class="x_blc_service flex-wrap">
                    <li>
                        <a href="https://www.maidforyou.com.au/services/">
                            <img decoding="async" src="https://www.maidforyou.com.au/wp-content/uploads/2022/12/vector_smart_object27.png" alt="House" data-lazy-src="https://www.maidforyou.com.au/wp-content/uploads/2022/12/vector_smart_object27.png" data-ll-status="loaded" class="entered lazyloaded"><noscript><img decoding="async" src="https://www.maidforyou.com.au/wp-content/uploads/2022/12/vector_smart_object27.png" alt="House"></noscript>
@@ -152,10 +155,10 @@
     <div class="block py-5">
         <div class="container">
             <div class="row align-items-center">
-                <div class="col fl-node-17guqliprv5z col-small" data-node="17guqliprv5z">
+                <div class="col-md-5 col-12 mb-5">
                     <img decoding="async" class="img-fluid w-480" src="https://www.maidforyou.com.au/wp-content/uploads/2022/12/what-you-get.png" alt="MaidForYou cleaner mikki wiping down a glass bathroom shower screen" height="610" width="610" data-lazy-srcset="https://www.maidforyou.com.au/wp-content/uploads/2022/12/what-you-get.png 610w, https://www.maidforyou.com.au/wp-content/uploads/2022/12/what-you-get-300x300.png 300w, https://www.maidforyou.com.au/wp-content/uploads/2022/12/what-you-get-150x150.png 150w" data-lazy-sizes="(max-width: 610px) 100vw, 610px" data-lazy-src="https://www.maidforyou.com.au/wp-content/uploads/2022/12/what-you-get.png" data-ll-status="loaded" sizes="(max-width: 610px) 100vw, 610px" srcset="https://www.maidforyou.com.au/wp-content/uploads/2022/12/what-you-get.png 610w, https://www.maidforyou.com.au/wp-content/uploads/2022/12/what-you-get-300x300.png 300w, https://www.maidforyou.com.au/wp-content/uploads/2022/12/what-you-get-150x150.png 150w" title="MaidForYou Cleaner Mikki">
                 </div>
-                <div class="col fl-node-djahcr8ov0bw col-small" data-node="djahcr8ov0bw">
+                <div class="col-md-5 col-12">
                     <div class="col-content fl-node-content"><div class="fl-module fl-module-heading fl-node-9g8qt10hcfus" data-node="9g8qt10hcfus">
                             <div class="fl-module-content fl-node-content">
                                 <h2 class="fl-heading">
@@ -219,8 +222,8 @@
     </div>
     <div class="block py-5">
         <div class="container">
-            <div class="row align-items-center">
-                <div class="col fl-node-djahcr8ov0bw col-small" data-node="djahcr8ov0bw">
+            <div class="row align-items-center row justify-content-center g-10">
+                <div class="col-md-5 col-12 mb-5">
                     <div class="col-content fl-node-content"><div class="fl-module fl-module-heading fl-node-9g8qt10hcfus" data-node="9g8qt10hcfus">
                             <div class="fl-module-content fl-node-content">
                                 <h2 class="fl-heading">
@@ -270,26 +273,19 @@
                         </div>
                     </div>
                 </div>
-                <div class="col fl-node-17guqliprv5z col-small" data-node="17guqliprv5z">
+                <div class="col-md-5 col-12">
                     <img decoding="async" class="img-fluid w-480" src="https://www.maidforyou.com.au/wp-content/uploads/2023/02/Boy-Cleaning.png" alt="MaidForYou cleaner Jimmy wearing a black shirt and holding a backpack vacuum" height="605" width="598" title="MaidForYou Cleaner Jimmy" data-lazy-srcset="https://www.maidforyou.com.au/wp-content/uploads/2023/02/Boy-Cleaning.png 598w, https://www.maidforyou.com.au/wp-content/uploads/2023/02/Boy-Cleaning-297x300.png 297w" data-lazy-sizes="(max-width: 598px) 100vw, 598px" data-lazy-src="https://www.maidforyou.com.au/wp-content/uploads/2023/02/Boy-Cleaning.png" data-ll-status="loaded" sizes="(max-width: 598px) 100vw, 598px" srcset="https://www.maidforyou.com.au/wp-content/uploads/2023/02/Boy-Cleaning.png 598w, https://www.maidforyou.com.au/wp-content/uploads/2023/02/Boy-Cleaning-297x300.png 297w"><noscript><img decoding="async" class="fl-photo-img wp-image-10630 size-full" src="https://www.maidforyou.com.au/wp-content/uploads/2023/02/Boy-Cleaning.png" alt="MaidForYou cleaner Jimmy wearing a black shirt and holding a backpack vacuum"  height="605" width="598" title="MaidForYou Cleaner Jimmy" srcset="https://www.maidforyou.com.au/wp-content/uploads/2023/02/Boy-Cleaning.png 598w, https://www.maidforyou.com.au/wp-content/uploads/2023/02/Boy-Cleaning-297x300.png 297w" sizes="(max-width: 598px) 100vw, 598px" /></noscript>
                 </div>
             </div>
         </div>
     </div>
-    </div>
     <div class="block py-4">
         <div class="container">
-            <div class="row">
-            </div>
-        </div>
-    </div>
-    <div class="block py-4">
-        <div class="container">
-            <div class="row">
-                <div class="col w-480">
+            <div class="row justify-content-center g-10">
+                <div class="col-md-5 col-12">
                     <img decoding="async" class="img-fluid" src="https://www.maidforyou.com.au/wp-content/uploads/2022/12/layer_23.png" alt="A service area map of Sydney depicting specific availability in Sydney suburbs" height="484" width="540" data-lazy-srcset="https://www.maidforyou.com.au/wp-content/uploads/2022/12/layer_23.png 540w, https://www.maidforyou.com.au/wp-content/uploads/2022/12/layer_23-300x269.png 300w" data-lazy-sizes="(max-width: 540px) 100vw, 540px" data-lazy-src="https://www.maidforyou.com.au/wp-content/uploads/2022/12/layer_23.png" data-ll-status="loaded" sizes="(max-width: 540px) 100vw, 540px" srcset="https://www.maidforyou.com.au/wp-content/uploads/2022/12/layer_23.png 540w, https://www.maidforyou.com.au/wp-content/uploads/2022/12/layer_23-300x269.png 300w" title="Service area map of Sydney"><noscript><img decoding="async" class="fl-photo-img wp-image-9913 size-full" src="https://www.maidforyou.com.au/wp-content/uploads/2022/12/layer_23.png" alt="A service area map of Sydney depicting specific availability in Sydney suburbs"  height="484" width="540" title="Service area map of Sydney" srcset="https://www.maidforyou.com.au/wp-content/uploads/2022/12/layer_23.png 540w, https://www.maidforyou.com.au/wp-content/uploads/2022/12/layer_23-300x269.png 300w" sizes="(max-width: 540px) 100vw, 540px" /></noscript>
                 </div>
-                <div class="col fl-node-ye1xjzicps4o col-small" data-node="ye1xjzicps4o">
+                <div class="col-md-5 col-12">
                     <div class="col-content fl-node-content"><div class="fl-module fl-module-heading fl-node-zuj1vq7p9lmh" data-node="zuj1vq7p9lmh">
                             <div class="fl-module-content fl-node-content">
                                 <h2 class="fl-heading">
@@ -329,7 +325,7 @@
                 MegaCM is Available for
             </h3>
             <div class="__content">
-                <ul class="x_blc_service">
+                <ul class="x_blc_service flex-wrap">
                     <li>
                         <a href="https://www.maidforyou.com.au/services/">
                             <img decoding="async" src="https://www.maidforyou.com.au/wp-content/uploads/2022/12/vector_smart_object27.png" alt="Houses" data-lazy-src="https://www.maidforyou.com.au/wp-content/uploads/2022/12/vector_smart_object27.png" data-ll-status="loaded" class="entered lazyloaded"><noscript><img decoding="async" src="https://www.maidforyou.com.au/wp-content/uploads/2022/12/vector_smart_object27.png" alt="Houses"></noscript>
@@ -397,14 +393,14 @@
                 <span>Take Time Off and Leave the Cleaning to Us</span>
             </h3>
             <div class="row">
-                <div class="col-lg-5 order-1">
+                <div class="col-md-5 col-12 order-1">
                     <div class="__image d-lg-flex justify-content-end align-items-center">
                         <img src="{{ asset("images/Why-Choose-Maid-For-Yous-Office-Cleaning-Service.png") }}"
                              class="img-fluid w-480"
                              alt="Why-Choose-Maid-For-Yous-Office-Cleaning-Service.png">
                     </div>
                 </div>
-                <div class="col-lg-7 order-0">
+                <div class="col-md-7 col-12 order-0">
                     {{ fake()->realText(1200) }}
                 </div>
 
@@ -422,14 +418,14 @@
                 <span>Take Time Off and Leave the Cleaning to Us</span>
             </h3>
             <div class="row">
-                <div class="col-lg-5">
+                <div class="col-md-5 col-12">
                     <div class="__image d-lg-flex justify-content-end align-items-center">
                         <img src="{{ asset("images/Why-Choose-Maid-For-Yous-Office-Cleaning-Service.png") }}"
                              class="img-fluid w-480"
                              alt="Why-Choose-Maid-For-Yous-Office-Cleaning-Service.png">
                     </div>
                 </div>
-                <div class="col-lg-7">
+                <div class="col-md-7 col-12">
                     {{ fake()->realText(1200) }}
                 </div>
             </div>
