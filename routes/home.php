@@ -21,7 +21,9 @@ use Illuminate\Support\Facades\Route;
 
 Route::name("home.")->group(function (){
     Route::get("/", [IndexController::class, "index"])->name("index");
-
+    Route::get("book-now", function (){
+        return view("index.errors.comming");
+    });
     Route::get("about-us", [IndexController::class, "aboutus"])->name("about");
     Route::get("careers", [IndexController::class, "index"])->name("career");
     Route::get("pricing", [IndexController::class, "index"])->name("pricing");
