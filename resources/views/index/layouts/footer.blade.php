@@ -17,10 +17,10 @@
                        <div class="textwidget mb-4">
                            <h3>GET IN TOUCH</h3>
                            <p><strong>{{ \App\Facades\MegaCM::title() }}</strong><br>
-                               <strong>Phone:</strong> <a href="tel:{{ \App\Facades\MegaCM::optsetting()['phone'] }}">{{ \App\Facades\MegaCM::optsetting()['phone'] }}</a><br>
-                               <strong>Email:</strong> <a href="mailto:{{ \App\Facades\MegaCM::optsetting()['email'] }}">{{ \App\Facades\MegaCM::optsetting()['email'] }}</a><br>
-                               <strong>ACN:</strong> 624 411 570<br>
-                               <strong>Address: </strong>{{ \App\Facades\MegaCM::optsetting()['address'] }}</p>
+                               <strong>Phone:</strong> <a href="tel:481686339">481686339</a><br>
+                               <strong>Email:</strong> <a href="mailto:sales@megacm.com.au">sales@megacm.com.au</a><br>
+                               <strong>ACN:</strong> 668 754 363<br>
+                               <strong>Address: </strong>Unit 9/41-43 Jamison RdKingswood NSW 2747</p>
                        </div>
                        <div class="textwidget">
                            <h3>Helpful Links</h3>
