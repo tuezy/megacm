@@ -70,6 +70,16 @@
                                         Oven Cleaning
                                     </a>
                                 </li>
+                                <li>
+                                    <a href="{{ route("home.services.service", 'pressure-cleaning') }}">
+                                        Pressure Cleaning
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="{{ route("home.services.service", 'carpet-cleaning') }}">
+                                        Carpet Cleaning
+                                    </a>
+                                </li>
                             </ul>
                         </li>
                         <li>

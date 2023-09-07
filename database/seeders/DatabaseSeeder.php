@@ -27,7 +27,8 @@ class DatabaseSeeder extends Seeder
                      'Penrith City',
                      'Berkshire Park',
                      'Cambridge Park',
-                     'Castlereagh - Agnes Banks',
+                     'Castlereagh',
+                     'Agnes Banks',
                      'Claremont Meadows',
                      'Colyton',
                      'Cranebrook',
@@ -41,8 +42,10 @@ class DatabaseSeeder extends Seeder
                      'Leonay',
                      'Llandilo',
                      'Londonderry',
-                     'Luddenham - Wallacia',
-                     'Mount Vernon - Kemps Creek - Badgerys Creek',
+                     'Luddenham',
+                     'Wallacia',
+                     'Mount Vernon',
+                     'Kemps Creek',
                      'Mulgoa',
                      'North St Marys',
                      'Orchard Hills',
@@ -53,7 +56,6 @@ class DatabaseSeeder extends Seeder
                      'St Clair',
                      'St Marys',
                      'Werrington',
-                     'Werrington Downs - Werrington County',
                      'Black town',
                      'Parrammata',
                      'lLverpool',
@@ -72,7 +74,7 @@ class DatabaseSeeder extends Seeder
                      'Marden Park',
                      'Quaker Hill',
                      'Seven Hill',
-                     'Wentworthville, Westmead'
+                     'Wentworthville'
                  ] as $chinhanh){
             \App\Models\ProductBrand::create([
                 'nameen' => $chinhanh,
